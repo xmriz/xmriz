@@ -9,6 +9,7 @@
 ## 📞 Contacts
 <a href="https://www.linkedin.com/in/ahmad-rizki-901252165/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/xmriz"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<hr>
 
 ## My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&count_private=true&theme=react&show_icons=true&include_all_commits=true)
