@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello! My name is Ahmad Rizki!</h1>
+<hr>
+<h4 align="center">But you can call me Amriz. I'm Student from Bandung Institute of Technology (ITB). </h4>
+<p align="center">I am still learning to be Software Engineer, Fullstack Developer, and Machine Learning Engineer.</p>
+<kbd> <img src="" /> </kbd>
+<hr>
+<br/>
 
-<!--
-**xmrizz/xmrizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Contacts
+<a href="https://www.linkedin.com/in/ahmad-rizki-901252165/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/xmriz"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
