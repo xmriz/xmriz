@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is Ahmad Rizki!</h1>
 <hr>
-<img src="https://user-images.githubusercontent.com/88937716/154824896-40669366-76dc-4602-8edb-443c6d868dea.jpeg" align="center" alt="My Picture" width="180"/>
+<img src="https://user-images.githubusercontent.com/88937716/154824896-40669366-76dc-4602-8edb-443c6d868dea.jpeg" align="right" alt="My Picture" width="180"/>
 <h4 align="center">But you can call me Amriz. I'm Student from Bandung Institute of Technology (ITB). </h4>
 <p align="center">I am still learning to be Software Engineer, Fullstack Developer, and Machine Learning Engineer.</p>
 <hr>
