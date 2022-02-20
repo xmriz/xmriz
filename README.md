@@ -16,7 +16,6 @@
 ## My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&count_private=true&theme=react&show_icons=true&include_all_commits=true)
 
-</br>
 <br/>
 <br/>
 
