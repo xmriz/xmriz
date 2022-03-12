@@ -14,6 +14,8 @@
 <hr>
 
 ## My GitHub Stats 📊
-![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xmrizz&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=radical&hide=jupyter%20notebook,html)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmrizz&theme=radical&hide_langs_below=1&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&show_icons=true&theme=radical&line_height=21" alt="Amriz's GitHub Stats")
+
+*PS : Top Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
