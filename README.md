@@ -16,6 +16,6 @@
 ## My GitHub Stats 📊
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmrizz&theme=radical&hide_langs_below=1&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&show_icons=true&theme=radical&line_height=21" alt="Amriz's GitHub Stats")
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&show_icons=true&theme=radical&line_height=21")
 
 *PS : Top Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
