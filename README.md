@@ -16,4 +16,4 @@
 ## My GitHub Stats 📊
 ![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xmrizz&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=radical&hide=jupyter%20notebook,html)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=malikrafsan&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
