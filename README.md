@@ -14,7 +14,6 @@
 <hr>
 
 ## My GitHub Stats 📊
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmrizz&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmrizz&show_icons=true&theme=radical&line_height=21" />
-</p>
+![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xmrizz&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=radical&hide=jupyter%20notebook,html)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xmrizz&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
