@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub</h1>
+<h1 align="center">Hi👋, I'm amriz</h1>
 <hr>
 <img src="https://user-images.githubusercontent.com/88937716/154824896-40669366-76dc-4602-8edb-443c6d868dea.jpeg" align="right" alt="My Picture" width="180"/>
 <h4 align="left"> Hello, my name is Ahmad Rizki. But you can call me Amriz. I'm Student from Bandung Institute of Technology (ITB). </h4>
