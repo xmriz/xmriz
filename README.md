@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-## My GitHub Stats 📊
+## 📊 My GitHub Stats 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmriz&theme=radical&hide_langs_below=1&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xmriz&show_icons=true&theme=radical&line_height=21")
