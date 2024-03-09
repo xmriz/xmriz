@@ -1,4 +1,6 @@
-<h2 align="center">Ahmad Rizki (amriz)</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=900&height=80&lines=Ahmad+Rizki;amriz" alt="Typing SVG" /></a>
+</div>
 
 ###
 
