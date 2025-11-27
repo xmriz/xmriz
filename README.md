@@ -14,9 +14,7 @@
 
 ###
 
-<div align="left">
-  ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-</div>
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ###
 
