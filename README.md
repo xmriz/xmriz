@@ -10,12 +10,12 @@
 
 ###
 
-<img align="right" height="200" src="https://amriz.site/cartoon.svg"  />
+<img align="right" height="200" src="https://amriz.netlify.app/cartoon.svg"  />
 
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/xmriz/count.svg?"  />
+  ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 </div>
 
 ###
